@@ -1,3 +1,4 @@
+<img width="957" height="362" alt="Screenshot 2026-09-21 135152" src="https://github.com/user-attachments/assets/9d5cdb18-c208-4bd4-8a42-78bdfc0e5728" />
 # Sales & Profit Analysis
 
 An Excel-based sales and profit analysis project designed to track business performance and identify useful sales insights.
